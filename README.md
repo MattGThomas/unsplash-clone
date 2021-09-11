@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">{Unsplash Clone}</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -27,7 +27,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+  - [Built With](#React)
 - [Features](#features)
 - [How to use](#how-to-use)
 - [Contact](#contact)
@@ -51,8 +51,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [Material Design for Bootstrap](https://mdbootstrap.com/docs/react/)
 
 ## Features
 
@@ -71,10 +70,15 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 $ git clone https://github.com/your-user-name/your-project-name
 
 # Install dependencies
-$ npm install
+$ yarn install
 
 # Run the app
-$ npm start
+$ yarn start
+
+# This application has a built in backend system
+# To run the backend
+$ cd backend
+$ yarn run
 ```
 
 ## Acknowledgements
