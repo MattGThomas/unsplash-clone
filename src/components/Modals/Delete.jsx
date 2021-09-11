@@ -5,7 +5,7 @@ class Delete extends Component {
     state = {
         delete_modal: false
     }
-    
+    // just a test
     delete_click = () => {
         this.setState({
             delete_modal: !this.state.modal
